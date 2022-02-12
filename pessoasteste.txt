@@ -1,0 +1,40 @@
+----População final:----
+
+Pessoa 1:
+Identificador:AnaLebre34A
+Idade:55
+Estado:I
+
+Pessoa 2:
+Identificador:PauloPires2
+Idade:23
+Estado:D
+Dias de doente: 7
+
+Pessoa 3:
+Identificador:AfonsoTecla3
+Idade:3
+Estado:I
+
+Pessoa 4:
+Identificador:LuisaSantos
+Idade:40
+Estado:D
+Dias de doente: 3
+
+Pessoa 5:
+Identificador:Zulmira2A
+Idade:17
+Estado:S
+
+Pessoa 6:
+Identificador:PauloPires1
+Idade:23
+Estado:S
+
+Pessoa 7:
+Identificador:Tomas111
+Idade:12
+Estado:S
+
+Total de Pessoas:7
